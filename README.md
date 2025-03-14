@@ -54,3 +54,25 @@ If the server response contains database errors or sensitive information, the si
 If a vulnerability is found, it shows a warning with the target URL.
 If no vulnerability is found, it confirms that the site is safe.
 
+🌟 Technologies Used
+✅ Python
+✅ Requests (for HTTP requests)
+✅ BeautifulSoup (for parsing HTML)
+
+🚀 Features
+✔️ Identifies forms on a webpage
+✔️ Tests for SQL Injection vulnerabilities
+✔️ Tests for XSS vulnerabilities
+✔️ Outputs clear and detailed results
+
+📌 Why It’s Useful
+🔐 Helps secure web applications from common attacks.
+🚀 Fast and automated vulnerability scanning.
+💡 Easy to extend and modify for more complex testing.
+
+🔥 Future Improvements
+✅ Add more vulnerability checks (e.g., CSRF, Directory Traversal)
+✅ Improve result analysis and reporting
+✅ Add support for scanning multiple pages
+
+
